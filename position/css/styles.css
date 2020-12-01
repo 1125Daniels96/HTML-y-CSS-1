@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    }
+    
+    section{
+    width: 30%;
+    margin: 0 auto;
+    }
+    
+    figure{
+    background-color: slateblue;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: -10px;
+    }
+    
+    h2{
+    background-color: seagreen;
+    text-align: center;
+    padding: 1.3rem;
+    width: 50%;
+    border-radius: 4px;
+    top: 1.5rem;
+    position: relative;
+    margin: 0 auto;
+    }
+    
+    p{
+    background-color: slateblue;
+    text-align:center;
+    padding: 1.2rem;
+    border-radius: 4px;
+    margin: 0 auto;
+    top: 1 rem;
+    position: relative;
+    width: 90%;
+    }
+
+    .onix {
+        margin-top: 20%;
+        width: 100%;
+    }

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive images</title>
+    <link rel="stylesheet" href="css/phone.css">
+</head>
+<body>
+    <main>
+        <picture>
+            <source media="(min-width: 1000px)" srcset="images/mandala-big.png">
+            <source media="(min-width: 800px)" srcset="images/mandala-med.png">     
+            <img src="images/mandala.png" alt="imagen de ejemplo">
+        </picture>
+    </main>
+</body>
+</html>
